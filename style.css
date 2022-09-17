@@ -4,5 +4,13 @@ p {
     font-weight: bold;
 }
 body {
-    background-color: cadetblue;
+    background-color: #454545;
+}
+h1 {
+    font-size: large;
+    color: blue;
+}
+span {
+    font-weight: bold;
+    color: aquamarine;
 }
