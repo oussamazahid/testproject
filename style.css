@@ -4,7 +4,7 @@ p {
     font-weight: bold;
 }
 body {
-    background-color: #454545;
+    background-color: #5f3c3c;
 }
 h1 {
     font-size: large;
@@ -13,4 +13,8 @@ h1 {
 span {
     font-weight: bold;
     color: aquamarine;
+}
+h2 {
+    font-size: 100px;
+    color: rgb(82, 82, 255);
 }
